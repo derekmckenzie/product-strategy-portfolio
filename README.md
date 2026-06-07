@@ -10,7 +10,7 @@ This is a product strategy portfolio, not a software engineering portfolio.
 
 I have been early to financial product innovation waves for over a decade: digital advice, fintech, alternative assets, tokenization, and now AI-enabled financial infrastructure.
 
-I build strange-but-real things early.
+I build early-stage products in emerging markets.
 
 ## Areas of focus
 
